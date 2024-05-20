@@ -13,6 +13,6 @@ First you need to have Rust installed.
 
 Then you can run
 ```bash
-cargo run -p <cli-name>` -- <commands-to-the-cli>
+cargo run -p [CLI NAME] -- [COMMANDS/ARGS]
 ```
 Example: `cargo run -p echor -- "Hello, World!"` 
