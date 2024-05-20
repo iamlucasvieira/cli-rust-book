@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+members = [
+    "echor",
+    ]
+
+[workspace.package]
+edition = "2021"
+version = "0.1.0"
+authors = ["Lucas Vieira dos Santos <lucas6eng@gmail.com>"]
+description = "CLIs from the 'Command-Line Rust' book."
+
+
